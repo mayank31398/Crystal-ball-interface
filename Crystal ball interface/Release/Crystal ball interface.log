@@ -1,0 +1,18 @@
+﻿  Geometry.cpp
+Geometry.cpp(47): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+Geometry.cpp(69): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+Geometry.cpp(83): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+Geometry.cpp(88): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+  shaders.cpp
+  Transform.cpp
+c:\users\mayan\desktop\crystal ball interface - copy\crystal ball interface\Transform.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+c:\users\mayan\desktop\crystal ball interface - copy\crystal ball interface\Transform.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
